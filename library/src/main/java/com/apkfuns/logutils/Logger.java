@@ -1,4 +1,4 @@
-package com.apkfuns.logutils;
+﻿package com.apkfuns.logutils;
 
 import android.text.TextUtils;
 import android.util.Log;
@@ -27,7 +27,6 @@ import javax.xml.transform.stream.StreamSource;
 /**
  * Created by pengwei08 on 2015/7/20.
  */
-// TODO: 16/3/22 泛型支持
 class Logger implements Printer {
 
     private LogConfigImpl mLogConfig;
