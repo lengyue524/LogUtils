@@ -1,4 +1,4 @@
-package com.apkfuns.logutils;
+﻿package com.apkfuns.logutils;
 
 import com.apkfuns.logutils.parser.BundleParse;
 import com.apkfuns.logutils.parser.CollectionParse;
@@ -10,7 +10,7 @@ import com.apkfuns.logutils.parser.ThrowableParse;
 import java.util.List;
 
 /**
- * Created by pengwei on 16/4/18.
+ * Created by pengwei on 16/4/18.asdasd
  */
 public class Constant {
 
