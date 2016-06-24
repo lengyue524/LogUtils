@@ -1,7 +1,7 @@
 package com.apkfuns.logutils;
 
 /**
- * Created by pengwei08 on 2015/7/20.zxcz
+ * Created by pengwei08 on 2015/7/20.
  */
 public interface Printer {
 

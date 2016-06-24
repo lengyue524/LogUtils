@@ -10,7 +10,7 @@ import com.apkfuns.logutils.parser.ThrowableParse;
 import java.util.List;
 
 /**
- * Created by pengwei on 16/4/18.asdasd
+ * Created by pengwei on 16/4/18.
  */
 public class Constant {
 

@@ -1,8 +1,8 @@
-﻿package com.apkfuns.logutils;
+package com.apkfuns.logutils;
 
 /**
  * Created by pengwei on 16/3/8.
- * 格式化对象zxczx
+ * 格式化对象
  */
 public interface Parser<T> {
 

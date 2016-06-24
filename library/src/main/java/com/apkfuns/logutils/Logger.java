@@ -25,8 +25,9 @@ import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 
 /**
- * Created by pengwei08 on 2015/7/20.sdfsdfsdf
+ * Created by pengwei08 on 2015/7/20.
  */
+// TODO: 16/3/22 泛型支持
 class Logger implements Printer {
 
     private LogConfigImpl mLogConfig;
